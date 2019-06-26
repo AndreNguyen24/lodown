@@ -1,0 +1,22 @@
+{
+  "name": "lodown-andrenguyen24",
+  "version": "1.0.5",
+  "description": "My own NPM library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "instanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreNguyen24/lodown.git"
+  },
+  "author": "Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreNguyen24/lodown/issues"
+  },
+  "homepage": "https://github.com/AndreNguyen24/lodown#readme"
+}
